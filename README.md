@@ -49,7 +49,7 @@
 <br>
 --> **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
 <br>
---> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
+--> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$api` variable in `_config.php` with new URL. 
 
 
 ## Online Deployment
